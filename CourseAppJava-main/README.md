@@ -5,7 +5,3 @@
 - Mogućnost odjave s sustava, što korisnicima pruža dodatni sloj sigurnosti i privatnosti.
 - Omogućavanje korisnicima da dodaju, pregledavaju, i brišu kategorije
 - Omogućavanje korisnicima da dodaju, pregledavaju, uređuju  i brišu tečaj... (CRUD)# JavaMovieApp
-
-
-<p align="center"><a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="200" alt="Java Logo"></a></p>
-<p align="center"><a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://destatic.blob.core.windows.net/images/spring-boot-logo.png" width="200" alt="Laravel Logo"></a></p>
